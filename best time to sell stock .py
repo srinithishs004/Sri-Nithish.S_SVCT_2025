@@ -11,6 +11,7 @@ def max_profit(prices):
     
     return max_profit
 
+
 # Example usage:
 stock_prices = [7, 1, 5, 3, 6, 4]
 result = max_profit(stock_prices)
